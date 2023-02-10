@@ -1,12 +1,3 @@
-# Pre-Interview Development Exercise
-
-The following is a practical programming test designed to allow you to showcase your development skills and form a point of technical discussion in any forthcoming interview.
-
-We expect you will be able to submit the "correct" solution, so we are looking for coding standards and techniques that stand out.
-
-You should submit a complete, well-thought-out solution and are advised to pay particular attention to the requirements. This exercise should take no more than 2 hours.
-
-Good Luck!
 
 ## React Calendar
 
@@ -35,3 +26,6 @@ Pay attention to the following:
 - Careful consideration of what types are used in the solution.
 - Suitable use of JavaScript libraries and functional programming techniques where appropriate.
 - Clear and easy to understand JavaScript / TypeScript code.
+
+#LIVE LINK
+https://assessment-calender.netlify.app/
